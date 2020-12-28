@@ -1,5 +1,8 @@
 #EXTM3U
 #PLAYLIST:leopard_lists
+#EXTINF:1 tvg-logo="https://www.linkpicture.com/q/Screenshot_2020-12-13-11-05-29.jpg"  group-title="sᴋʏɴᴇᴛ sᴘᴏʀᴛ", SKYNET HD
+http://thaicable.myftp.org:8000/live/infosat/2020/2.ts
+
 #EXTINF:-1tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", Mahar 
 https://d2e3tk355loocn.cloudfront.net/stream.m3u8
 
