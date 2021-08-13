@@ -3,6 +3,36 @@
 #EXTINF:1 tvg-logo="https://www.linkpicture.com/q/Screenshot_2020-12-13-11-05-29.jpg"  group-title="sᴋʏɴᴇᴛ sᴘᴏʀᴛ", SKYNET HD
 http://thaicable.myftp.org:8000/live/infosat/2020/2.ts
 
+#EXTINF:- group-title="Sports2021",SKYNET SPORT HD
+https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
+
+#EXTINF:- group-title="Sports2021",Skynet Sport-HD (opt2)
+https://cloudserver.server-cdn-streaming.com/live-player/26/live.m3u8
+
+#EXTINF:- group-title="Sports2021",SKYNET SPORT 6
+https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
+
+#EXTINF:- group-title="Sports2021",SKYNET SPORT 5
+https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
+
+#EXTINF:- group-title="Sports2021",SKYNET SPORT 4
+https://www.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
+
+#EXTINF:- group-title="Sports2021",SKYNET SPORTS 4 (opt2)
+https://cloudserver.server-cdn-streaming.com/live-player/30/live.m3u8
+
+#EXTINF:- group-title="Sports2021",SKYNET SPORT 3
+https://www.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
+
+#EXTINF:- group-title="Sports2021",SKYNET SPORT 2
+https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
+
+#EXTINF:- group-title="Sports2021",Skynet Sport-2 (opt2)
+https://cloudserver.server-cdn-streaming.com/live-player/27/live.m3u8
+
+#EXTINF:- group-title="Sports2021",SKYNET SPORT 1
+https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
+
 #EXTINF:-1tvg-logo="https://www.linkpicture.com/q/1_228.jpg" group-title="မြန်မာ", Mahar 
 https://d2e3tk355loocn.cloudfront.net/stream.m3u8
 
